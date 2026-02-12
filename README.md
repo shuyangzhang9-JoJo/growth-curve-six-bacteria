@@ -19,6 +19,6 @@ Required packages:
 The script fits growth curves using a logistic model and extracts:
 - Carrying capacity (K)
 - Maximum growth rate (rmax)
-- log time (t)
+- Lagtime (t)
 
 Baseline correction is performed using the time=0 OD600 value.
